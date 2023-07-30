@@ -17,7 +17,7 @@ other = "İçerikler"
 
 # === Taxonomy ===
 [allSome]
-other = "All {{ .Some }}"
+other = "Tüm {{ .Some }}"
 
 [tag]
 other = "Etiket"
