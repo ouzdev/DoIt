@@ -12,12 +12,12 @@ other = "Yorumları Gör"
 
 # === Post ===
 [posts]
-other = "İçerikler"
+other = "Bloglar"
 # === Post ===
 
 # === Taxonomy ===
 [allSome]
-other = "All {{ .Some }}"
+other = "Tüm {{ .Some }}"
 
 [tag]
 other = "Etiket"
@@ -42,7 +42,7 @@ other = "Daha fazla"
 other = "Dil Seç"
 
 [switchTheme]
-other = "Switch Theme"
+other = "Temayı Değiştir"
 # === partials/header.html ===
 
 # === partials/footer.html ===
@@ -104,7 +104,7 @@ other = "İçerikler"
 other = "{{ .Date }} tarihinde paylaşıldı"
 
 [includedInCategories]
-other = "{{ .Categories }} kategorileri içinde"
+other = "{{ .Categories }} kategorileri"
 
 [wordCount]
 one = "Bir kelime"
