@@ -104,15 +104,15 @@ other = "İçerikler"
 other = "{{ .Date }} tarihinde paylaşıldı"
 
 [includedInCategories]
-other = "{{ .Categories }} kategorileri"
+other = "Kategoriler: {{ .Categories }}"
 
 [wordCount]
 one = "Bir kelime"
 other = "{{ .Count }} kelime"
 
 [readingTime]
-one = "One minute"
-other = "{{ .Count }} minutes"
+one = "Bir dakikalık Okuma Süresi"
+other = "{{ .Count }} Dakikalık Okuma Süresi"
 
 [views]
 other = "görüntülenme"

@@ -918,8 +918,8 @@ series = "series"
 {{< /admonition >}}
 
 {{< admonition note "Hugo 的运行环境" >}}
-`hugo serve` 的默认运行环境是 `development`,
-而 `hugo` 的默认运行环境是 `production`.
+`hugo serve` `development`,
+而 `hugo` `production`.
 
 由于本地 `development` 环境的限制,
 **评论系统**, **CDN** 和 **fingerprint** 不会在 `development` 环境下启用.
